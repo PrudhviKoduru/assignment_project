@@ -16,7 +16,8 @@ The goal:
 ## ⚙️ How It Works
 
 ### 1. Data Generation
-`generate_iot_data.py` creates realistic IoT sensor data (~100MB JSON).  
+`generate_iot_data.py` creates realistic IoT sensor data (~100MB JSON).
+[iot Dataset](https://drive.google.com/file/d/1pbg8qF_flyxG4xXAqHrPzcHU1gN-hSPj/view?usp=drive_link)
 Each record contains simulated readings for:
 - Temperature  
 - Humidity  
